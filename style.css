@@ -7,6 +7,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: whitesmoke;
+    
 }
 
 .input{
@@ -15,9 +16,23 @@ body {
 
 header {
     border: 1px groove grey;
-    padding: 2px;
+    padding: 5px;
+    margin: 5px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 15px; 
+    color:grey;
+    margin: 10px 5px;
+    padding: 5px 5px;
+}
+
+li {
+    margin: 10px 5px;
+    padding: 5px 5px;
+}
+
+label {
+    margin: 10px 5px;
+    padding: 5px 5px;
 }
